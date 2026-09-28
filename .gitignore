@@ -1,0 +1,33 @@
+# .NET build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Aa]rtifacts/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# Other IDEs and editors
+.fleet/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Local Claude settings
+.claude/settings.local.json
